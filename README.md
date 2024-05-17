@@ -5,6 +5,7 @@
 [![Releases](https://img.shields.io/github/release-pre/knative/eventing-contrib.svg)](https://github.com/knative-sandbox/eventing-prometheus/releases)
 [![LICENSE](https://img.shields.io/github/license/knative/eventing-contrib.svg)](https://github.com/knative-sandbox/eventing-prometheus/blob/master/LICENSE)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://knative.slack.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-prometheus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-prometheus?ref=badge_shield)
 
 ## Deprecated
 
@@ -327,3 +328,7 @@ Context Attributes,
 
 There may be a brief pause while Knative Serving launches the event-display
 pods.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-prometheus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-prometheus?ref=badge_large)
